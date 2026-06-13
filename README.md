@@ -173,7 +173,7 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` file for more information (you can add a simple MIT license file if desired).  
 Basically, you are free to use, modify, and distribute this code for personal or commercial projects.
