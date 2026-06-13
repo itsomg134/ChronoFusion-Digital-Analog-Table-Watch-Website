@@ -124,7 +124,7 @@ The analog clock drawing logic is inside `drawAnalogClock()`. You can customize:
 
 ---
 
-## 🌟 Key Code Highlights
+## Key Code Highlights
 
 ### Real‑Time Analog Clock (Canvas)
 
