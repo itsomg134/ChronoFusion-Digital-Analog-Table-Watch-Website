@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Dual Watch Visualization**
   - **Analog Clock:** Canvas-based mechanical-style watch face with sweeping second hand, Roman/Arabic hybrid markers, and polished dial design.
@@ -35,7 +35,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 chronofusion-hybrid-watch/
