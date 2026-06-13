@@ -180,7 +180,7 @@ Basically, you are free to use, modify, and distribute this code for personal or
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - [Font Awesome](https://fontawesome.com/) for crisp icons
 - [Google Fonts](https://fonts.google.com/) for typography
