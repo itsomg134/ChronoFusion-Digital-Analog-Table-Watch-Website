@@ -50,7 +50,7 @@ chronofusion-hybrid-watch/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally or deploy it.
 
