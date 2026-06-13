@@ -160,7 +160,7 @@ setInterval(updateDigitalDisplay, 1000);
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork the repository and submit a pull request.
