@@ -1,13 +1,8 @@
-Here is a professional GitHub README file for your ChronoFusion hybrid watch website project, ready to be copied into your repository.
-```markdown
-# ⌚ ChronoFusion — Digital & Analog Table Watch Website
+# ChronoFusion — Digital & Analog Table Watch Website
 
 **Live Fusion Experience:** A sleek, responsive product showcase website that presents a **hybrid table watch** combining classic analog aesthetics with real-time digital intelligence. The page features live analog canvas clock, dynamic digital time display, and a modern product interface — perfect for smartwatch or hybrid device landing pages.
 
-🔗 **Live Demo:** [Insert your deployed link here, e.g., GitHub Pages URL]
-
-![ChronoFusion Preview](https://via.placeholder.com/800x400?text=ChronoFusion+Hybrid+Watch+Website)  
-*(Replace placeholder with actual screenshot of your project)*
+<img width="1880" height="1934" alt="image" src="https://github.com/user-attachments/assets/dbfbcb6e-3b3a-43b9-9e27-50b7a60a1fff" />
 
 ---
 
