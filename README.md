@@ -152,7 +152,7 @@ setInterval(updateDigitalDisplay, 1000);
 
 ---
 
-## 📱 Responsive Behavior
+## Responsive Behavior
 
 - Uses Flexbox and `flex-wrap` to stack cards on small screens.
 - CSS media queries adjust font sizes and container padding for mobile devices.
