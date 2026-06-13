@@ -92,7 +92,7 @@ python -m http.server 8000
 
 ---
 
-## 🎨 Customization Guide
+## Customization Guide
 
 You can easily adapt this template for your own hybrid watch or smart product.
 
