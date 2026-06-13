@@ -187,15 +187,3 @@ Basically, you are free to use, modify, and distribute this code for personal or
 - Inspiration from modern hybrid watch designs (Apple Watch, mechanical‑digital fusion concepts)
 
 ---
-
-## 📬 Contact
-
-Project Link: [https://github.com/your-username/chronofusion-hybrid-watch](https://github.com/your-username/chronofusion-hybrid-watch)  
-Live Demo: [Insert GitHub Pages or Netlify link]
-
-Created with ⏱️ by [Your Name] — enjoy the fusion of tradition and technology!
-
----
-
-> **Note:** This website is a frontend demonstration. The “Notify Me” button is a UI example and does not store user data. Replace placeholders with actual links and images before publishing.
-```
